@@ -1,8 +1,14 @@
 body{
     background: #222;
+    text-align: center;
 }
 h2{
     color: #666;
     font-family: monospace;
-    text-align: center;
 }
+
+#canvas {
+    border: 1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    display: inline-block;
+  }
