@@ -85,7 +85,6 @@ const world = {
     drag: 0.999, // play with this value to change drag
     groundDrag: 0.9, // play with this value to change ground movement
     ground: 500,
-    sky: 3000,
 }
 // set start
 player.start();
